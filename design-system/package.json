@@ -1,0 +1,24 @@
+{
+  "name": "design-system",
+  "version": "0.1.0",
+  "description": "Design system basado en Untitled UI — componentes React con Code Connect a Figma",
+  "main": "src/index.ts",
+  "scripts": {
+    "figma:connect": "npx @figma/code-connect connect",
+    "figma:publish": "npx @figma/code-connect publish",
+    "figma:unpublish": "npx @figma/code-connect unpublish"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@figma/code-connect": "^1.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0"
+  }
+}
