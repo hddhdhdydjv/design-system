@@ -1,0 +1,114 @@
+/* ================================================
+   Brand Themes — Design System
+   Generated from Figma Variables (_Primitives)
+   
+   Usage: add class .theme-{brand} to any wrapper
+   ================================================ */
+
+/* --- Fan Raise --- */
+.theme-fan-raise {
+  --brand-25:  #CCE4FF;
+  --brand-50:  #AAD3FF;
+  --brand-100: #88C1FF;
+  --brand-200: #66AFFF;
+  --brand-300: #449EFF;
+  --brand-400: #228CFF;
+  --brand-500: #007AFF;
+  --brand-600: #0067D6;
+  --brand-700: #0053AD;
+  --brand-800: #003F85;
+  --brand-900: #002C5C;
+  --brand-950: #001833;
+
+  --btn-primary-bg:        #0067D6;
+  --btn-primary-bg-hover:  #0053AD;
+  --btn-primary-bg-active: #003F85;
+  --btn-primary-fg:        #ffffff;
+  --btn-secondary-color-bg:       #CCE4FF;
+  --btn-secondary-color-fg:       #0067D6;
+  --btn-secondary-color-border:   #88C1FF;
+  --btn-tertiary-color-fg:        #0067D6;
+  --btn-tertiary-color-bg-hover:  #AAD3FF;
+  --btn-link-color-fg:            #0067D6;
+}
+
+/* --- IZI Park --- */
+.theme-izi-park {
+  --brand-25:  #D0EBD9;
+  --brand-50:  #B1DDC0;
+  --brand-100: #92CFA6;
+  --brand-200: #73C28D;
+  --brand-300: #53B474;
+  --brand-400: #34A75A;
+  --brand-500: #159941;
+  --brand-600: #128137;
+  --brand-700: #0E682C;
+  --brand-800: #0B5022;
+  --brand-900: #083717;
+  --brand-950: #041F0D;
+
+  --btn-primary-bg:        #128137;
+  --btn-primary-bg-hover:  #0E682C;
+  --btn-primary-bg-active: #0B5022;
+  --btn-primary-fg:        #ffffff;
+  --btn-secondary-color-bg:       #D0EBD9;
+  --btn-secondary-color-fg:       #128137;
+  --btn-secondary-color-border:   #92CFA6;
+  --btn-tertiary-color-fg:        #128137;
+  --btn-tertiary-color-bg-hover:  #B1DDC0;
+  --btn-link-color-fg:            #128137;
+}
+
+/* --- Think Nube AI --- */
+.theme-think-nube-ai {
+  --brand-25:  #E2E0FA;
+  --brand-50:  #D2CEF7;
+  --brand-100: #C2BCF4;
+  --brand-200: #B1AAF1;
+  --brand-300: #A198EF;
+  --brand-400: #9186EC;
+  --brand-500: #8074E9;
+  --brand-600: #7062E6;
+  --brand-700: #5A4EB8;
+  --brand-800: #433B8A;
+  --brand-900: #2D275C;
+  --brand-950: #16142E;
+
+  --btn-primary-bg:        #7062E6;
+  --btn-primary-bg-hover:  #5A4EB8;
+  --btn-primary-bg-active: #433B8A;
+  --btn-primary-fg:        #ffffff;
+  --btn-secondary-color-bg:       #E2E0FA;
+  --btn-secondary-color-fg:       #7062E6;
+  --btn-secondary-color-border:   #C2BCF4;
+  --btn-tertiary-color-fg:        #7062E6;
+  --btn-tertiary-color-bg-hover:  #D2CEF7;
+  --btn-link-color-fg:            #7062E6;
+}
+
+/* --- Whasi --- */
+.theme-whasi {
+  --brand-25:  #FFF1EE;
+  --brand-50:  #FFE1DA;
+  --brand-100: #FFC5B8;
+  --brand-200: #FF9F8A;
+  --brand-300: #FF7A5C;
+  --brand-400: #FF5F42;
+  --brand-500: #FF5337;
+  --brand-600: #FF4C2F;
+  --brand-700: #E0442A;
+  --brand-800: #B83722;
+  --brand-900: #8F2B1B;
+  --brand-950: #641E13;
+
+  --btn-primary-bg:        #E0442A;
+  --btn-primary-bg-hover:  #B83722;
+  --btn-primary-bg-active: #8F2B1B;
+  --btn-primary-fg:        #ffffff;
+  --btn-secondary-color-bg:       #FFF1EE;
+  --btn-secondary-color-fg:       #E0442A;
+  --btn-secondary-color-border:   #FFC5B8;
+  --btn-tertiary-color-fg:        #E0442A;
+  --btn-tertiary-color-bg-hover:  #FFE1DA;
+  --btn-link-color-fg:            #E0442A;
+}
